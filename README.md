@@ -12,4 +12,6 @@
 
 -   run command npm swagger so the basic structure of api has been generated
 
+- localhost:port/api-docs
+
 
